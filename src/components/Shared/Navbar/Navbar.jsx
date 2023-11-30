@@ -396,7 +396,7 @@ const Navbar = () => {
                     ? '/register'
                     : setting === 'Dashboard'
                     ? isActiveUser && isAdmin
-                      ? '/dashboard/allUsers'
+                      ? '/dashboard/welcome'
                       : isActiveUser && !isAdmin
                       ? '/dashboard/profile'
                       : '/'

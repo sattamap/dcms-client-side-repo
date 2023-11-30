@@ -23,6 +23,7 @@ import AdminRoute from "./AdminRoute";
 import PrivateRoutes from "./PrivateRoutes";
 import Recommendation from "../pages/DashBoard/Admin/Recommendation/Recommendation";
 import UpdateUser from "../pages/DashBoard/User/UpdateUser/UpdateUser";
+import Welcome from "../pages/DashBoard/Admin/Welcome/Welcome";
 
 
 
@@ -80,6 +81,10 @@ export const router = createBrowserRouter([
       },
 
       // admin routes
+      {
+        path: "welcome",
+        element: <AdminRoute><Welcome></Welcome></AdminRoute>,
+      },
       {
         path: "allUsers",
         element: <AdminRoute><AllUsers></AllUsers></AdminRoute>,
