@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "1",
+    "name": "Truhealth Active Male",
+    "details": "I had a great experience at the diagnostic center. The staff was courteous, and the facilities were well-maintained. The diagnostic process was smooth, and I received my results promptly. Overall, a positive visit.",
+    "rating": 5,
+    "image": "https://i.ibb.co/RQM24PZ/p2.jpg",
+    "price": 6500,
+    "profile": 7,
+    "parameter": 80,
+    "rate": 4.5
+  },
+  {
+    "_id": "2",
+    "name": "Truhealth Active Female",
+    "details": "The diagnostic center exceeded my expectations. The atmosphere was calm, and the staff was knowledgeable. They explained the procedures clearly and made me feel comfortable throughout. I highly recommend their services.",
+    "rating": 5,
+    "image": "https://i.ibb.co/SKrTH0n/p3.jpg",
+    "price": 6000,
+    "profile": 10,
+    "parameter": 90,
+    "rate": 4.8
+  },
+  {
+    "_id": "3",
+    "name": "Truhealth Vital",
+    "details": "I recently visited the diagnostic center for some tests, and I was impressed with the professionalism and efficiency. The facility was clean, and the results were accurate. I appreciate the quality service provided.",
+    "rating": 5,
+    "image": "https://i.ibb.co/f816T7z/p4.jpg",
+    "price": 10000,
+    "profile": 8,
+    "parameter": 60,
+    "rate": 4.9
+  },
+  {
+    "_id": "4",
+    "name": "Truhealth Vital Plus",
+    "details": "The diagnostic center staff was friendly and attentive. The waiting time was minimal, and the process was well-organized. I received clear explanations about my tests, and the overall experience was positive.",
+    "rating": 4,
+    "image": "https://i.ibb.co/nLPD7Tf/p1.jpg",
+    "price": 15000,
+    "profile": 8,
+    "parameter": 75,
+    "rate": 4.2
+  }
+]

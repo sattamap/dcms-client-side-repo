@@ -1,0 +1,38 @@
+[
+    {
+      "_id": "64301234f5a7e52ce1e8fa70",
+      "name": "Alice Thompson",
+      "details": "I had a great experience at the diagnostic center. The staff was courteous, and the facilities were well-maintained. The diagnostic process was smooth, and I received my results promptly. Overall, a positive visit.",
+      "rating": 5,
+      "image": "https://i.ibb.co/42r9w0w/img1.png"
+    },
+    {
+      "_id": "64301248f5a7e52ce1e8fa71",
+      "name": "Mark Anderson",
+      "details": "The diagnostic center exceeded my expectations. The atmosphere was calm, and the staff was knowledgeable. They explained the procedures clearly and made me feel comfortable throughout. I highly recommend their services.",
+      "rating": 5,
+      "image": "https://i.ibb.co/q9hdvHL/img2.png"
+    },
+    {
+      "_id": "6430125bf5a7e52ce1e8fa72",
+      "name": "Elena Rodriguez",
+      "details": "I recently visited the diagnostic center for some tests, and I was impressed with the professionalism and efficiency. The facility was clean, and the results were accurate. I appreciate the quality service provided.",
+      "rating": 5,
+      "image": "https://i.ibb.co/h90fwwf/img3.png"
+    },
+    {
+      "_id": "6430126ef5a7e52ce1e8fa73",
+      "name": "Michael Chang",
+      "details": "The diagnostic center staff was friendly and attentive. The waiting time was minimal, and the process was well-organized. I received clear explanations about my tests, and the overall experience was positive.",
+      "rating": 4,
+      "image": "https://i.ibb.co/vcg91VX/img4.png"
+    },
+    {
+      "_id": "64301281f5a7e52ce1e8fa74",
+      "name": "Jennifer Patel",
+      "details": "I had a fantastic experience at the diagnostic center. The team was professional, and the facility was equipped with modern technology. The results were delivered promptly, and I felt well taken care of my visit.",
+      "rating": 4,
+      "image": "https://i.ibb.co/XxNDLhj/img5.png"
+    }
+  ]
+  
