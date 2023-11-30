@@ -12,6 +12,7 @@ import {
   CardContent,
   Link as MuiLink,
 } from '@mui/material';
+import GoogleLogin from '../../components/GoogleLogin/GoogleLogin';
 
 const Login = () => {
   const { signIn } = useContext(AuthContext);
@@ -89,6 +90,7 @@ const Login = () => {
               <Typography variant="body2" align="center" className="mt-3">
                 New Here? <MuiLink component={Link} to="/register">Create an account</MuiLink>
               </Typography>
+              <GoogleLogin></GoogleLogin>
             </CardContent>
           </Card>
         </Grid>

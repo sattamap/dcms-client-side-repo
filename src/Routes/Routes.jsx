@@ -75,7 +75,7 @@ export const router = createBrowserRouter([
       {
         path: 'updateUser/:id',
         element:<UpdateUser></UpdateUser>,
-        loader: ({params})=> fetch(`http://localhost:5000/users/update/${params.id}`)
+        loader: ({params})=> fetch(`https://dcms-server.vercel.app/users/update/${params.id}`)
 
       },
 
@@ -111,7 +111,7 @@ export const router = createBrowserRouter([
       {
         path: 'updateTest/:id',
         element:<AdminRoute><UpdateTest></UpdateTest></AdminRoute>,
-        loader: ({params})=> fetch(`http://localhost:5000/test/${params.id}`)
+        loader: ({params})=> fetch(`https://dcms-server.vercel.app/test/${params.id}`)
 
       }
     ]
